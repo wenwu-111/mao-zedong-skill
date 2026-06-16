@@ -200,6 +200,7 @@ git clone https://github.com/weiyinfu/MaoZeDongAnthology.git ~/MaoZeDongAntholog
 | **组织管理/带团队** | 群众路线 + 批评与自我批评 |
 | **职业规划/转型** | 持久战略（三阶段） + 根据地思维 |
 | **谈判/合作** | 统一战线 + 矛盾分析 |
+| **社会问题分析** | 矛盾分析法 + 群众路线 + 一分为二 |
 
 ---
 
