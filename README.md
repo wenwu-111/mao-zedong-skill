@@ -129,7 +129,7 @@
 ## 安装
 
 ```bash
-npx skills add <你的GitHub用户名>/mao-zedong-skill
+npx skills add wenwu-111/mao-zedong-skill
 ```
 
 然后在 Claude Code 里触发：
